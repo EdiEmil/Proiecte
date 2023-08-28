@@ -1,0 +1,7 @@
+export const Role = {
+    USER: 'USER',
+    ADMIN: 'ADMIN',
+    DOCTORSPITAL: 'DOCTORSPITAL',
+    DOCTORFAM: 'DOCTORFAM',
+    FARMACIST: 'FARMACIST'
+}
